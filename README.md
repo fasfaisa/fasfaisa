@@ -1,4 +1,4 @@
- Hi there 👋, My name is Faisa
+## Hi there 👋, My name is Faisa
 
 I am a passionate Full Stack Developer and a current Computer Science and Technology student at Uva Wellassa University of Sri Lanka. I have a strong interest in both Front-End and Back-End development, and I'm always eager to learn new technologies and apply them in real-world projects. I thrive on problem-solving and enjoy collaborating on innovative projects.
 
@@ -29,8 +29,8 @@ fathimafaisa]
 
 ## Connect with me:
 - GitHub: [https://github.com/fasfaisa]
-- LinkedIn: [www.linkedin.com/in/
-fathimafaisa]
+- LinkedIn: [(www.linkedin.com/in/
+fathimafaisa)]
 
 ## Languages and Tools:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
