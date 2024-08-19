@@ -21,16 +21,10 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 
 ## 📫 How to reach me:
 - Email: [fathimafaisa00@gmail.com]
-- LinkedIn: [www.linkedin.com/in/
-fathimafaisa]
+- LinkedIn: [https://www.linkedin.com/in/fathimafaisa]
 
 ## 😄 Pronouns:
 - Faisa
-
-## Connect with me:
-- GitHub: [https://github.com/fasfaisa]
-- LinkedIn: [(www.linkedin.com/in/
-fathimafaisa)]
 
 ## Languages and Tools:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
