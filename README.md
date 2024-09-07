@@ -37,3 +37,5 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 
+[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=fasfaisa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/fasfaisa)
+
