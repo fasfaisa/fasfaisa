@@ -2,6 +2,8 @@
 
 I am a passionate Full Stack Developer and a current Computer Science and Technology student at Uva Wellassa University of Sri Lanka. I have a strong interest in both Front-End and Back-End development, and I'm always eager to learn new technologies and apply them in real-world projects. I thrive on problem-solving and enjoy collaborating on innovative projects.
 
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
  Skills:
 - **Front-End Development:** React, HTML, CSS, JavaScript, Bootstrap
 - **Back-End Development:** Node.js, Express.js
