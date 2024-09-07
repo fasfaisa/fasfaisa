@@ -24,17 +24,13 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 <p align="left">
   <a href="https://www.linkedin.com/in/fathimafaisa target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="faisa" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100070298961808" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+      alt="faisa" height="30" width="40" /></a>
   <a href="https://www.instagram.com/fai_sa20?igsh=ZjA0aDBkN2dzbGdj" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="fathimafaisa00@gmail.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-</p>
+      alt="faisa" height="30" width="40" /></a>
 
 <br>
 
