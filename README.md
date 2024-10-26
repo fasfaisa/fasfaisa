@@ -57,5 +57,9 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 </a>
 </p>
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasfaisa&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasfaisa&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasfaisa&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasfaisa&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasfaisa&theme=algolia&utcOffset=8)
 
