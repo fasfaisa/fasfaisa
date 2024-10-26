@@ -4,12 +4,7 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
- Skills:
-- **Front-End Development:** React, HTML, CSS, JavaScript, Bootstrap
-- **Back-End Development:** Node.js, Express.js
-- **Version Control:** Git
-- **Database Management:** MongoDB, MySQL
-- **Others:**  Postman
+
 
 ## 🌱 I’m currently learning:
 - Advanced topics in Computer Science and Technology
@@ -18,8 +13,6 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 - Open Source Projects
 - Innovative web and mobile application development
 
-## 💬 Ask me about:
-- React, HTML, CSS, JavaScript, Node.js, React Native
 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,29 +32,83 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 ## 😄 Pronouns:
 - Faisa
 
-## Languages and Tools:
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+## Languages and Tools
 
-<p align="center">
-<a href="https://github.com/fasfaisa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasfaisa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fasfaisa&layout=compact&langs_count=8&theme=algolia"/>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br><b>Node.js</b>
+    </td>
+   <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br><b>Express</b>
+    </td>
+    
+   <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br><b>Java</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br><b>Bootstrap</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+   <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br><b>Figma</b>
+    </td>
+  </tr>
+</table>
 
-</a>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasfaisa&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasfaisa&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasfaisa&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasfaisa&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasfaisa&theme=algolia&utcOffset=8)
-</p>
+
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasfaisa&theme=algolia" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasfaisa&theme=algolia" alt="Repos per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasfaisa&theme=algolia" alt="Most Commit Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasfaisa&theme=algolia" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasfaisa&theme=algolia&utcOffset=8" alt="Productive Time">
+</div>
+
+
 
 
 
