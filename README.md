@@ -54,12 +54,13 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 <a href="https://github.com/fasfaisa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasfaisa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fasfaisa&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasfaisa&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasfaisa&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasfaisa&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasfaisa&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasfaisa&theme=algolia&utcOffset=8)
-</a>
 </p>
 
 
