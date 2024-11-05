@@ -2,6 +2,8 @@
 
 I am a passionate Full Stack Developer and a current Computer Science and Technology student at Uva Wellassa University of Sri Lanka. I have a strong interest in both Front-End and Back-End development, and I'm always eager to learn new technologies and apply them in real-world projects. I thrive on problem-solving and enjoy collaborating on innovative projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasfaisa&label=Profile%20views&color=0e75b6&style=flat" alt="fasfaisa" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 
