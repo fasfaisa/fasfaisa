@@ -4,7 +4,7 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasfaisa&label=Profile%20views&color=0e75b6&style=flat" alt="fasfaisa" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+<img align="right" alt="Coding" width="400" src="code.webp">
 
 
 
