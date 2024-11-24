@@ -8,10 +8,10 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 
 
 
-## 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 - Advanced topics in Computer Science and Technology
 
-## 👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on:
 - Open Source Projects
 - Innovative web and mobile application development
 
@@ -31,7 +31,7 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
 
 <br>
 
-## 😄 Pronouns:
+### 😄 Pronouns:
 - Faisa
 
 ## Languages and Tools
