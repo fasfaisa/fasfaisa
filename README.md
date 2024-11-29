@@ -123,9 +123,9 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
       <br><b>Android Studio</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br><b>Docker</b>
+     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br><b>GitHub</b>
     </td>
   </tr>
 </table>
