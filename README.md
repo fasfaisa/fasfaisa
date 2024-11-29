@@ -58,12 +58,11 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br><b>Node.js</b>
     </td>
-   <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
       <br><b>Express</b>
     </td>
-    
-   <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br><b>Java</b>
     </td>
@@ -89,7 +88,7 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       <br><b>Postman</b>
     </td>
-   <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br><b>Python</b>
     </td>
@@ -98,7 +97,39 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
       <br><b>Figma</b>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br><b>PHP</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br><b>C</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+      <br><b>Kotlin</b>
+    </td>
+   <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br><b>Tailwind CSS</b>
+    </td>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      <br><b>Django</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+      <br><b>Android Studio</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br><b>Docker</b>
+    </td>
+  </tr>
 </table>
+
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasfaisa&theme=dark"/>
