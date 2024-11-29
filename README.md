@@ -100,15 +100,23 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
   </tr>
 </table>
 
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasfaisa&theme=dark"/>
+    <br/>
+     <br/>
+     <br/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasfaisa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br/>
+     <br/>
+     <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasfaisa&theme=dark" />
+
+    
+  </div>
+
+  <br/>
 
 
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasfaisa&theme=algolia" alt="Profile Details">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasfaisa&theme=algolia" alt="Repos per Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasfaisa&theme=algolia" alt="Most Commit Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasfaisa&theme=algolia" alt="Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasfaisa&theme=algolia&utcOffset=8" alt="Productive Time">
-</div>
 
 
 
