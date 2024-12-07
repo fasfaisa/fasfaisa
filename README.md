@@ -128,6 +128,37 @@ I am a passionate Full Stack Developer and a current Computer Science and Techno
       <br><b>GitHub</b>
     </td>
   </tr>
+   <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      <br><b>PyTorch</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+      <br><b>TensorFlow</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br><b>NumPy</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br><b>Pandas</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+      <br><b>Scikit-learn</b>
+    </td>
+   <td align="center" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" />
+  <br><b>Google Colab</b>
+</td>
+
+  <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" height="48" alt="Kaggle" />
+      <br><b>Kaggle</b>
+    </td>
+  </tr>
 </table>
 
 
